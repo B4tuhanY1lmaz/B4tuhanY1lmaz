@@ -1,4 +1,4 @@
-# Hello everyone 👋 !
+# Hi there 👋 !
 ## My Name is Batuhan Yılmaz
 ### | 💛 Linux | 💙 UX/UI | 💚 Coding |
 - I am a highschool student, developer, designer and a photographer.
