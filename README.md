@@ -1,6 +1,6 @@
 # Hello everyone 👋 !
 ## My Name is Batuhan Yılmaz
-### | 💛 Linux | 💙 UX/UI | 💚 Music |
+### | 💛 Linux | 💙 UX/UI | 💚 Coding |
 - I am a highschool student, developer, designer and a photographer.
 - I am programming Rainmeter, HTML, CSS and learning TypeScript.
 
