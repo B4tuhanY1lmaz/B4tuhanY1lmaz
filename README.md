@@ -1,5 +1,5 @@
 # Hi there 👋 !
-## My Name is Batuhan Yılmaz
+## I'm Batuhan.
 ### | 💛 Linux | 💙 UX/UI | 💚 Coding |
 - I am a highschool student, developer, designer and a photographer.
 - I make Rainmeter skins, code in Html and Css, and I'm learning Typescript
