@@ -1,2 +1,18 @@
 # Hi there 👋 ! I'm Batuhan. 
-## | 💛 Linux | 💙 UX/UI | 💚 Coding |
+```
+OS: {
+  Hackintosh 12,
+  Fedora 38,
+},
+
+Languages: {
+  HTML,
+  TailwindCSS,
+  ReactJS,
+  BashScript,
+},
+
+Frameworks: {
+  NextJS,
+}
+```
