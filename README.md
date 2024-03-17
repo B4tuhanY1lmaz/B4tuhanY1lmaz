@@ -1,15 +1,14 @@
 # Hi there 👋 ! I'm Batuhan. 
 ```
 OS: {
-  Hackintosh 12,
-  Fedora 38,
+  Fedora 39,
 },
 
 Languages: {
   HTML,
   TailwindCSS,
   ReactJS,
-  BashScript,
+  Bash
 },
 
 Frameworks: {
