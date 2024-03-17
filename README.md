@@ -1,17 +1,23 @@
 # Hi there 👋 ! I'm Batuhan. 
-```
+```json
 OS: {
   Fedora 39,
 },
 
 Languages: {
-  HTML,
-  TailwindCSS,
-  ReactJS,
-  Bash
+  Turkish,
+  English
 },
 
+Programming Languages: {
+  Html,
+  CSS,
+  Javascript,
+  React,
+  Bash
+}
+
 Frameworks: {
-  NextJS,
+  NextJS
 }
 ```
