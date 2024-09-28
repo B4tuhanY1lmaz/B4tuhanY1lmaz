@@ -3,10 +3,8 @@
 I'm a Web developer and Linux system Admin.
 -------------------------------------
 * 🌍  I'm based in Türkiye 🇹🇷
-* 🖥️  See my portfolio at [My Blog](http://www.yyilmaz.com.tr)
+* 🖥️  See my portfolio at [My Website](http://www.yyilmaz.com.tr)
 * ✉️  You can contact me at [batuhan@yyilmaz.com.tr](mailto:batuhan@yyilmaz.com.tr)
-* 🚀  I'm currently working on [caesiumR](http://github.com/B4tuhanY1lmaz/caesiumR)
-* 🧠  I'm learning advenced JavaScript
 
 ### Skills
 
